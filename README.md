@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokotieru-mashumaro&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/s0md3v?style=social)](https://twitter.com/13pGwOuvX0cONL4)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ポコチエル?style=social)](https://twitter.com/13pGwOuvX0cONL4)
 <!--
 **pokotieru-mashumaro/pokotieru-mashumaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
