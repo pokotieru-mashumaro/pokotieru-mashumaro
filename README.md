@@ -7,7 +7,7 @@
  </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokotieru-mashumaro&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
-![github-user-contribution](https://github.com/pokotieru-mashumaro/pokotieru-mashumaro/assets/121010614/af4fd624-39fc-4a76-9062-d21420b0fe88)
+
 
 
 <!--
