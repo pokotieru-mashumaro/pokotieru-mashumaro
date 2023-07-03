@@ -8,17 +8,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokotieru-mashumaro&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/ポコチエル?style=social)](https://twitter.com/13pGwOuvX0cONL4)
-<!--
-**pokotieru-mashumaro/pokotieru-mashumaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 自己紹介
+```swift
+struct Developer {
+    var name: String
+    var age: Int
+    var company: String?
+    var tech: [String]
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+var me = Developer(
+    name: "pokotieru-mashumaro",
+    age: 19,
+    company: nil,
+    tech: ["SwiftUI", "Jetpack Compose", "KMM", "Firebase"]
+)
+```
