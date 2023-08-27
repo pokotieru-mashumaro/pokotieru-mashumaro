@@ -1,7 +1,7 @@
 
  <p align="leading">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,kotlin,firebase,sqlite,postman" />
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,python,django,firebase,sqlite,postman" />
   </a>
 </p>
 
