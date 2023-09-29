@@ -9,7 +9,7 @@
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/ポコチエル?style=social)](https://twitter.com/13pGwOuvX0cONL4)
 
-## 自己紹介
+## Profile..
 ```swift
 struct Developer {
     var name: String
