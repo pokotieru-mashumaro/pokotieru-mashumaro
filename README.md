@@ -20,7 +20,7 @@ struct Developer {
 
 var me = Developer(
     name: "pokotieru-mashumaro",
-    age: 20,
+    age: 21,
     company: nil,
     tech: ["SwiftUI", "Jetpack Compose", "KMM", "Django",  "PostgreSQL", "Firebase"]
 )
