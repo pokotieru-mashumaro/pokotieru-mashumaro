@@ -1,3 +1,4 @@
+ [![kkomatsu's 42 stats](https://badge.mediaplus.ma/colorfulwaves/kkomatsu)](https://github.com/oakoudad/badge42)
 
  <p align="leading">
   <a href="https://skillicons.dev">
