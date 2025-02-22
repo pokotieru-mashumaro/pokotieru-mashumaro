@@ -1,4 +1,4 @@
-[![kkomatsu's 42 stats](https://badge.mediaplus.ma/starryblue/kkomatsu?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![kkomatsu's 42 stats](https://badge.mediaplus.ma/water/kkomatsu?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
  <p align="leading">
   <a href="https://skillicons.dev">
