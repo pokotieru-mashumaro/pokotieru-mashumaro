@@ -1,5 +1,3 @@
-[![kkomatsu's 42 stats](https://badge.mediaplus.ma/water/kkomatsu?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
  <p align="leading">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,kotlin,python,django,firebase,postgres,sqlite,postman" />
